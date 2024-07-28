@@ -63,12 +63,8 @@ This project is a simple Flutter application demonstrating navigation between pa
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-### License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
 ### Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Author**: Sarvin ShrivShrivastava 
+- **Email**: sarvin5124@gmail.com
+- **GitHub**: [sarvinshrivastava](https://github.com/sarvinshrivastava)
